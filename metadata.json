@@ -1,0 +1,6 @@
+{
+  "name": "Harmony",
+  "description": "A premium, ultra-modern music streaming web application featuring synchronized lyrics, custom visualizers, voice search, and Gemini-powered smart music recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
